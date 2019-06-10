@@ -7,4 +7,5 @@
 ```
 
 https://guides.gradle.org/creating-multi-project-builds/
+
 https://spring.io/guides/gs/multi-module/
