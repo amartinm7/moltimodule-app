@@ -1,4 +1,4 @@
-# Multimodule gradle project
+# Multi module gradle project
 
 ```bash
 - infrastructure or src folder
